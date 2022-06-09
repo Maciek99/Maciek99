@@ -8,4 +8,4 @@ My favorite frontend JavaScript framework is [Next.js](https://nextjs.org/)
 - 🔭 I’m currently working on Syfali - a small discord bot, more info soon 
 - 📫 How to reach me: Discord - Maciek99#0001 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I started learning proggraming at 8 years old 
+- ⚡ Fun fact: I started learning programming at 8 years old 
