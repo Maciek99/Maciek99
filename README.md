@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Maciek
-### I am a fullstack TypeScript developer
+### I am a intermediate fullstack TypeScript developer
 
 
 My favorite frontend JavaScript framework is [Next.js](https://nextjs.org/)
