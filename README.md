@@ -4,7 +4,7 @@
 
 My favorite frontend JavaScript framework is [Next.js](https://nextjs.org/)
 
-- 💡 I know JavaScript, HTML, CSS.
+- 💡 I know JavaScript, Python, HTML, CSS.
 - 🔭 I’m currently working on [Syfali](https://syfa.li) - a small discord bot
 - 📫 How to reach me: Discord - maciek99
 - 😄 Pronouns: he/him 
